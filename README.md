@@ -1,7 +1,7 @@
 ## Pedro Tanaka - @pedro-stanaka
 
 Hey, I am Pedro -- a Software Engineer with passion for well architected and well-tought solutions. 
-Currently working @ _Legal One GmbH_ to law companies be more agile in their processes.
+Currently working @ _Legal One GmbH_ helping law companies be more agile in their processes.
 On my free time I like to play some <img src="https://raw.githubusercontent.com/pedro-stanaka/pedro-stanaka/overwatch-logo/overwatch.svg" width="16px"/> Overwatch  and Sport games :basketball:.
 
 
