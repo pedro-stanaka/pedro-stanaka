@@ -2,7 +2,7 @@
 
 Hey, I am Pedro -- a Software Engineer with passion for well architected and well-tought solutions.
 Currently, I am working as software engineer for Shopify where I help bring to
-life the new observability platform for @Shopify.
+life the new observability platform for the company.
 On my free time I like to play some <img src="https://raw.githubusercontent.com/pedro-stanaka/pedro-stanaka/overwatch-logo/overwatch.svg" width="16px"/> Overwatch  and Sport games :basketball:.
 
 
