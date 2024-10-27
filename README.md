@@ -10,3 +10,8 @@ On my free time I like to play some <img src="https://raw.githubusercontent.com/
 
 - Twitter:  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/pedro_stanaka.svg?style=social&label=Follow%20%40pedro_stanaka)](https://twitter.com/pedro_stanaka)
 - Personal Site: [pedrotanaka.com.br](https://pedrotanaka.com.br)
+
+
+## Activity
+
+![github activity animated](./profile-3d-contrib/profile-season-animate.svg)
